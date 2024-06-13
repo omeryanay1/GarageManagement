@@ -1,0 +1,11 @@
+C:\Users\yanay\OneDrive\שולחן העבודה\B24 EX03\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\yanay\OneDrive\שולחן העבודה\B24 EX03\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\yanay\OneDrive\שולחן העבודה\B24 EX03\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\yanay\OneDrive\שולחן העבודה\B24 EX03\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\yanay\OneDrive\שולחן העבודה\B24 EX03\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\yanay\OneDrive\שולחן העבודה\B24 EX03\ConsoleUI\bin\Debug\EX03.GarageLogic.dll
+C:\Users\yanay\OneDrive\שולחן העבודה\B24 EX03\ConsoleUI\bin\Debug\EX03.GarageLogic.pdb
+C:\Users\yanay\OneDrive\שולחן העבודה\B24 EX03\ConsoleUI\bin\Debug\EX03.GarageLogic.dll.config
+C:\Users\yanay\OneDrive\שולחן העבודה\B24 EX03\ConsoleUI\obj\Debug\ConsoleUI.csproj.Up2Date
+C:\Users\yanay\OneDrive\שולחן העבודה\B24 EX03\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\yanay\OneDrive\שולחן העבודה\B24 EX03\ConsoleUI\obj\Debug\ConsoleUI.pdb
